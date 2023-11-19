@@ -5,3 +5,6 @@
 ```
 print("Hello, World"!)
 ```
+- [x] finish assignments
+- [ ] learn python backend
+- [ ] get rich
